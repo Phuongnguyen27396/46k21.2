@@ -1,0 +1,385 @@
+
+
+.header{
+   
+    padding: 10px;
+    
+    color: aliceblue;
+    font-size:18px;
+   /*text-align: center;    -- chữ vô giữa*/   
+}
+
+    .text-bg-success p-3{
+   
+        padding: 10px;
+        max-width: 1920px;
+        max-height: 1080px;
+       
+       /*text-align: center;    -- chữ vô giữa*/   
+    }
+
+
+.btn btn-outline-danger{
+    margin-left: 50%;
+}
+
+
+ul.dangxuat {
+padding: 0;
+margin: 1px;
+
+border: 0px solid ;
+list-style: none;
+margin: 0 auto;
+line-height: 27px;
+margin-top: -48px;
+margin-left: 1350px;
+}
+
+
+ul.dangxuat    li:hover {
+background: red;
+padding: 5px 5px;
+
+}
+
+
+ul.dangxuat li a {
+text-align: left;
+color: white;
+text-decoration: none;
+
+margin-left: 55px;
+}
+
+
+
+
+.wrapper1{
+    max-width: 1920px;
+    
+    margin: 0 auto;
+}
+
+#main{
+    
+    height: 868px;
+    width: 10%;
+    
+    margin-top:0px;
+    margin-left:0px ;
+    font-family:Calibri;
+    text-indent: 30px
+   
+}
+.menu {
+    
+    height: 50px;
+    width: 100%;    
+      
+}
+
+.vung2{
+   height: 100%;
+    width: 120%;
+    background: #011e1f;
+    color: aliceblue;
+    
+    margin-top: -7px;
+    
+}
+.trungtam p {
+    text-align: center;
+    font-size: 25px;
+  
+}
+    ul.list_menu {
+    padding: 0;
+   margin: 1px;
+   width: 100%;
+   border: 0px solid ;
+   list-style: none;
+   margin: 0 auto;
+   line-height: 27px;
+   background: #011e1f
+}
+
+
+ul.list_menu     li:hover {
+    background: burlywood;
+ }
+
+ ul.list_menu   li a {
+    text-align: left;
+    color: aliceblue;
+    text-decoration: none;
+ }
+ ul.list_menu     li {
+    float: center;
+    margin: 7px;
+    padding: 5px;
+    font-size: 16px;
+ }
+
+.footer1{
+   
+    height: 50px;
+    width: 100%;
+    background: #011e1f;
+    color: aliceblue;
+}
+.footer2{
+   
+    height: 50px;
+    width: 100%;
+    background: #011e1f;
+    color: aliceblue;
+}
+.footer3{
+    
+    height: 50px;
+    width: 100%;
+    background: #011e1f;
+    color: aliceblue;
+}
+.footer4{
+    
+    height: 50px;
+    width: 100%;
+    background: #011e1f;
+    color: aliceblue;
+}
+.footer5{
+    border: 1px solid #000;
+    height: 50px;
+    width: 100%;
+    background: #011e1f;
+    color: aliceblue;
+}
+.footer6{
+    border: 1px solid #000;
+    height: 50px;
+    width: 100%;
+    background: #011e1f;
+    color: aliceblue;
+}
+.footer7{
+    border: 1px solid #000;
+    height: 50px;
+    width: 100%;
+    background: #011e1f;
+    color: aliceblue;
+}
+.footer8{
+    border: 1px solid #000;
+    height:50px;
+    width: 100%;
+    background: #011e1f;
+    color: aliceblue;
+}
+.trungtam{
+   
+    margin-top: -868px;
+    margin-left: 50px;
+    font-family: Calibri;
+    font-size: 20px;
+    text-indent: 40px;
+    
+}
+#list_menu ul.sub_menu {
+    position: absotule;
+    background-color: #3CB371;
+    padding: 15px 0 px;
+    list-style: none;
+    width: 20px;
+}
+#list_menu ul.sub_menu a{
+    padding: 8px 15px;
+    border-bottom: 1px solid #434343;
+    left:0;
+}
+#list_menu ul.sub_menu  li:hover a{
+    border-bottom: 1px solid #6e6e6e;
+}
+#list_menu ul.sub_menu  li:last-child{
+    border: none;
+
+}
+.main{
+    
+    
+    margin-left:190px ;
+    font-family:Calibri;
+    font-size:16px;
+    text-indent: 100px;
+    margin-top: -50px;
+    margin-left: 100px;
+}
+
+.hihi {
+    
+    height: 50px;
+    transform: scale(1);
+    width: 1000px;
+    background-color: 	 #c8c9c1;
+    margin-top: -00px;
+    margin-left: 250px;
+}
+.lietke_thanhvien{
+    height: 50px;
+    transform: scale(1);
+    width: 900px;
+    background-color: 	 #cfd3af;
+    margin-top: -200px;
+    margin-left: 80px;
+}
+
+ul.admincp_list{
+    
+    height: 30px;
+    width: 1000px;
+    margin-left: 20px;
+  
+}
+.haha {
+
+    margin-left: 450px;
+    margin-top: -20px;
+    background-color: 	 #b6a49e;
+    box-shadow: 5px 2px;
+    padding: 5px 1px;
+}
+
+
+
+.hihi1{
+    height: 50px;
+
+    width: 900px;
+    background-color: 	 #c8c9c1;
+    margin-top: 150px;
+    margin-left: 80px;
+    
+}
+.hinh{
+   
+    margin-top: -450px;
+    margin-left: 80px;
+    
+}
+.trangchu{
+    margin-left: 200px;
+    margin-top: 10px;
+    width: 1200px;
+    font-size: 15px;
+    background-color: #E6EABD ;
+    box-shadow: 5px 2px;
+
+}
+.trangchu1{
+    margin: 20px 10px ;
+    box-shadow: 5px 2px;
+ background-color: palevioletred;
+
+}
+.baiviet {
+    margin-left: 200px;
+    margin-top: 10px;
+    width: 1040px;
+    font-size: 15px;
+    background-color: #E6EABD ;
+    box-shadow: 5px 2px  gold;
+  
+}
+.thembaiviet{
+    margin-left: 300px;
+    margin-top: -200px;
+    width: 164px;
+    font-size: 15px;
+    background-color: #c4a095 ;
+    
+}
+
+.truongphong_bds{
+    
+    height: 50px;
+    transform: scale(1);
+    width: 1350px;
+    background-color: 	 #b3ffff;
+    margin-top: -200px;
+    margin-left: 100px;
+    font-size: 15px;
+}
+.lietke_thanhvien1{
+        height: 50px;
+        transform: scale(1);
+        width: 1350px;
+        background-color: 	 #cfd3af;
+        margin-top: -200px;
+        margin-left: 200px;
+}
+.suabds{
+        background-color: 	 #e2bbca;
+        margin-top: -200px;
+        margin-left: 500px;
+        
+}
+.suathanhvien
+{
+    background-color: 	 #e2bbca;
+    margin-top: 100px;
+    margin-left: 550px;
+    width: 350px;
+}
+.suabaiviet{
+    background-color: 	 #e2bbca;
+    margin-top: 100px;
+    margin-left: 550px;
+    width: 350px;
+}
+.nhanvien_xem1{
+    margin-top: -800px;
+}
+.nhanvien_xem {
+    margin-top: -900px;
+    width: 100px;
+    float: right ;
+    background-color: #6e6e6e;
+    width: 80px;
+    height: 30px;
+    padding: 10px;
+    margin: 5px;
+    
+}
+.xemnhanvien{
+    
+    height: 50px;
+    transform: scale(1);
+    width: 1350px;
+    background-color: 	 #cfd3af;
+    
+    margin-left: 150px;
+}
+.lietke_nhanvien{
+    
+    height: 50px;
+    transform: scale(1);
+    width: 1350px;
+    background-color: 	 #cfd3af;
+    margin-top: 50px;
+    margin-left: 180px;
+}
+
+.ghichu{
+    padding: 5px 50px;
+    margin-top: 100px;
+    margin-left: 1180px;
+  
+}
+.ghichu1{
+    padding: 80px 5px; /* You can adjust the padding values to make it larger */
+    font-size: 15px;
+    margin-left: 1000px;
+    margin-top: 100px;
+}
+
