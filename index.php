@@ -83,13 +83,13 @@
     if(isset( $_POST['dangnhap'])){ 
       $email = $_POST['email'];
       $password = $_POST['password'];
-      if($email == '1' && $password == '1'){
+      if($email == 'adminbds@gmail.com' && $password == 'adminbds123@'){
         header('Location:index123.php');
-      }elseif($email == '2' && $password == '2'){
+      }elseif($email == 'truongphongbds@gmail.com' && $password == 'truongphongbds123@'){
         header('Location:manager.php');
-    }elseif($email == '3' && $password == '3'){
+    }elseif($email == 'nhanvienbds@gmail.com' && $password == 'nhanvienbds123@'){
         header('Location:employee.php'); 
-    }elseif($email == '4' && $password == '4'){
+    }elseif($email == 'congtacvienbds@gmail.com' && $password == 'congtacvienbds123@'){
         header('Location:collaborators.php'); 
         
       }else{
